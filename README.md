@@ -77,7 +77,7 @@ Les performances et l'accessibilité avant et après optimisation ont été éva
 
 Clonez ce dépôt :
 ```bash
-git clone https://github.com/votre-utilisateur/nina-carducci-photographe.git'''
+git clone https://github.com/votre-utilisateur/nina-carducci-photographe.git```
 
 
 Ouvrez le fichier index.html dans votre navigateur pour voir la version optimisée du site.Conclusion
